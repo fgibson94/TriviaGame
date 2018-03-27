@@ -1,5 +1,6 @@
 body{
     background-image: url("../../assets/images/background2.2.jpg");
+    background-size: 30%;
     background-repeat: no-repeat;
     background-position: left;
     background-attachment: fixed;
